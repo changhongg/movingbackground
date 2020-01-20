@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/background_one"
+            android:layout_width="480dp"
+            android:layout_height="720dp"
+            android:src="@drawable/background" />
+
+    <ImageView
+        android:id="@+id/background_two"
+        android:layout_width="480dp"
+        android:layout_height="720dp"
+        android:src="@drawable/background" />
+
+    </FrameLayout>
+
+
